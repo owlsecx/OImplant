@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OImplant
+Comment=Implant config builder/analyzer — sleep, kill-date, channels, IOCs
+Exec=OImplant
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OAttack;
